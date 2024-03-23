@@ -29,3 +29,12 @@ h1{
     line-height: 100%;
     margin-bottom: 24px;
 }
+
+p,li,th,td{
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    color: #5f564d;
+    line-height: 150%;
+}
